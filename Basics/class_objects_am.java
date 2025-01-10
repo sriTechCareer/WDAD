@@ -26,5 +26,8 @@ public class class_objects_am {
         Animal dog = new Animal("Bella", 3, "Brown");
         Animal cat = new Animal("Mickey", 2, "Black");
         Animal bird = new Animal("Polly", 1, "White");
+        System.out.println(dog.getName());
+        System.out.println(cat.getAge());
+        System.out.println(bird.getColor());
     }
 }
