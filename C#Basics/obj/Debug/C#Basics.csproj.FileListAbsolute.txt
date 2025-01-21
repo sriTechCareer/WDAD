@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\Srivaths\WDAD\C#Basics\bin\Debug\C#Basics.exe.config
+C:\Users\Admin\Documents\Srivaths\WDAD\C#Basics\bin\Debug\C#Basics.exe
+C:\Users\Admin\Documents\Srivaths\WDAD\C#Basics\bin\Debug\C#Basics.pdb
+C:\Users\Admin\Documents\Srivaths\WDAD\C#Basics\obj\Debug\C#Basics.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Srivaths\WDAD\C#Basics\obj\Debug\C#Basics.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Srivaths\WDAD\C#Basics\obj\Debug\C#Basics.exe
+C:\Users\Admin\Documents\Srivaths\WDAD\C#Basics\obj\Debug\C#Basics.pdb
