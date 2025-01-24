@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\Srivaths\WDAD\C#Practical2\bin\Debug\C#Practical2.exe.config
+C:\Users\Admin\Documents\Srivaths\WDAD\C#Practical2\bin\Debug\C#Practical2.exe
+C:\Users\Admin\Documents\Srivaths\WDAD\C#Practical2\bin\Debug\C#Practical2.pdb
+C:\Users\Admin\Documents\Srivaths\WDAD\C#Practical2\obj\Debug\C#Practical2.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Srivaths\WDAD\C#Practical2\obj\Debug\C#Practical2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Srivaths\WDAD\C#Practical2\obj\Debug\C#Practical2.exe
+C:\Users\Admin\Documents\Srivaths\WDAD\C#Practical2\obj\Debug\C#Practical2.pdb
