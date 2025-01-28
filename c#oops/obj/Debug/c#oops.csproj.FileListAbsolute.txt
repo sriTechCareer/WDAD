@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\Srivaths\WDAD\c#oops\bin\Debug\c#oops.exe.config
+C:\Users\Admin\Documents\Srivaths\WDAD\c#oops\bin\Debug\c#oops.exe
+C:\Users\Admin\Documents\Srivaths\WDAD\c#oops\bin\Debug\c#oops.pdb
+C:\Users\Admin\Documents\Srivaths\WDAD\c#oops\obj\Debug\c#oops.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Srivaths\WDAD\c#oops\obj\Debug\c#oops.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Srivaths\WDAD\c#oops\obj\Debug\c#oops.exe
+C:\Users\Admin\Documents\Srivaths\WDAD\c#oops\obj\Debug\c#oops.pdb

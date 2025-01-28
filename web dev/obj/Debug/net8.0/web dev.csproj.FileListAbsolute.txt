@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Srivaths\WDAD\web dev\obj\Debug\net8.0\web dev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Srivaths\WDAD\web dev\obj\Debug\net8.0\web dev.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Srivaths\WDAD\web dev\obj\Debug\net8.0\web dev.AssemblyInfo.cs
+C:\Users\Admin\Documents\Srivaths\WDAD\web dev\obj\Debug\net8.0\web dev.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Srivaths\WDAD\web dev\obj\Debug\net8.0\web dev.sourcelink.json
+C:\Users\Admin\Documents\Srivaths\WDAD\web dev\bin\Debug\net8.0\web dev.exe
+C:\Users\Admin\Documents\Srivaths\WDAD\web dev\bin\Debug\net8.0\web dev.deps.json
+C:\Users\Admin\Documents\Srivaths\WDAD\web dev\bin\Debug\net8.0\web dev.runtimeconfig.json
+C:\Users\Admin\Documents\Srivaths\WDAD\web dev\bin\Debug\net8.0\web dev.dll
+C:\Users\Admin\Documents\Srivaths\WDAD\web dev\bin\Debug\net8.0\web dev.pdb
+C:\Users\Admin\Documents\Srivaths\WDAD\web dev\obj\Debug\net8.0\web dev.dll
+C:\Users\Admin\Documents\Srivaths\WDAD\web dev\obj\Debug\net8.0\refint\web dev.dll
+C:\Users\Admin\Documents\Srivaths\WDAD\web dev\obj\Debug\net8.0\web dev.pdb
+C:\Users\Admin\Documents\Srivaths\WDAD\web dev\obj\Debug\net8.0\web dev.genruntimeconfig.cache
+C:\Users\Admin\Documents\Srivaths\WDAD\web dev\obj\Debug\net8.0\ref\web dev.dll
