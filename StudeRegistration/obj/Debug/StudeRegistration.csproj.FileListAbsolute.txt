@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Srivaths\WDAD\StudeRegistration\bin\Debug\StudeRegistration.exe.config
+C:\Users\Admin\Documents\Srivaths\WDAD\StudeRegistration\bin\Debug\StudeRegistration.exe
+C:\Users\Admin\Documents\Srivaths\WDAD\StudeRegistration\bin\Debug\StudeRegistration.pdb
+C:\Users\Admin\Documents\Srivaths\WDAD\StudeRegistration\obj\Debug\StudeRegistration.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Srivaths\WDAD\StudeRegistration\obj\Debug\StudeRegistration.Form1.resources
+C:\Users\Admin\Documents\Srivaths\WDAD\StudeRegistration\obj\Debug\StudeRegistration.Properties.Resources.resources
+C:\Users\Admin\Documents\Srivaths\WDAD\StudeRegistration\obj\Debug\StudeRegistration.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Srivaths\WDAD\StudeRegistration\obj\Debug\StudeRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Srivaths\WDAD\StudeRegistration\obj\Debug\StudeRegistration.exe
+C:\Users\Admin\Documents\Srivaths\WDAD\StudeRegistration\obj\Debug\StudeRegistration.pdb
