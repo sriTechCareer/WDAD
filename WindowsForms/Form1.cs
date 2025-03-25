@@ -1,3 +1,8 @@
+using System;
+using System.Data;
+using System.Windows.Forms;
+
+
 namespace WindowsForms
 {
     public partial class Form1 : Form
@@ -97,7 +102,17 @@ namespace WindowsForms
 
         private void button14_Click(object sender, EventArgs e)
         {
-
+            try
+            {
+                string expression = textBox1.Text;
+                DataTable table = new DataTable();
+                var result = table.Compute(expression, "");
+                textBox1.Text = result.ToString();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Invalid Expression", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
     }
 }
